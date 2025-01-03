@@ -12,7 +12,7 @@ Clone dự án về máy của bạn bằng cách sử dụng lệnh sau:
 git clone https://github.com/hominhhau/Mobile_AppBasic.git
 
 ### Bước 2: Di chuyển vào thư mục dự án
- cd Challenge1/Mobile_AppBasic
+ cd Mobile_AppBasic
 
 ### Bước 3: Cài đặt các phụ thuộc
 
